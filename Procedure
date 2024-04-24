@@ -1,0 +1,5 @@
+Step 1: Install python IDLE above 3.10
+Step 2: Install pygame module using command prompt
+Step 3: import pygame module in the file
+Step 4: run the program in command prompt (python main.py)
+Step 5: It will start executing the game
